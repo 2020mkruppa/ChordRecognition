@@ -1,0 +1,93 @@
+Training Songs:
+	A Hard Day's Night
+	And I Love Her
+	Any Time At All
+	Can't Buy Me Love
+	I Should Have Known Better
+	I'll Be Back
+	I'll Cry Instead
+	I'm Happy Just To Dance With You
+	Things We Said Today
+	When I Get Home
+	You Can't Do That
+	Baby's In Black
+	Every Little Thing
+	Everybody's Trying To Be My Baby
+	Honey Don't
+	I Don't Want To Spoil The Party
+	Kansas City _ Hey-Hey-Hey-Hey
+	Mr Moonlight
+	No Reply
+	Rock And Roll Music
+	Eight Days A Week
+	What You're Doing
+	Words Of Love
+	Another Girl
+	The Night Before
+	You've Got To Hide Your Love Away
+	Blue Jay Way
+	Flying
+	I Am The Walrus
+	Magical Mystery Tour
+	Hello, Goodbye
+	Strawberry Fields Forever
+	Anna (Go To Him)
+	Ask Me Why
+	Boys
+	Chains
+	I Saw Her Standing There
+	Misery
+	Please Please Me
+	And Your Bird Can Sing
+	Good Day Sunshine
+	Here, There And Everywhere
+	I'm Only Sleeping
+	Love You To
+	She Said She Said
+	Taxman
+	Yellow Submarine
+	Drive My Car
+	If I Needed Someone
+	In My Life
+	Michelle
+	Norwegian Wood (This Bird Has Flown)
+	Nowhere Man
+	Run For Your Life
+	The Word
+	Think For Yourself
+	You Won't See Me
+	Sgt. Pepper's Lonely Hearts Club Band
+	With A Little Help From My Friends
+	All I've Got To Do
+	All My Loving
+	Devil In Her Heart
+	Don't Bother Me
+	Hold Me Tight
+	Little Child
+	money
+	Not A Second Time
+	Please Mister Postman
+	Roll Over Beethoven
+	Till There Was You
+	You Really Got A Hold On Me
+
+Validation Songs:
+	If I Fell
+	I'll Follow The Sun
+	Help!
+	The Fool On The Hill
+	Eleanor Rigby
+	Girl
+	Wait
+	I Wanna Be Your Man
+
+Test Songs:
+	Tell Me Why
+	I'm A Loser
+	I Need You
+	Your Mother Should Know
+	For No One
+	I'm Looking Through You
+	What Goes On
+	It Won't Be Long
+
